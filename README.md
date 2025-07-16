@@ -47,7 +47,7 @@ Key predictors identified include **Glucose**, **BMI**, and **Age**.
 
 - [Set-Up](https://github.com/amystanley25/diabetes-prediction-analysis/blob/master/proj-notebook.ipynb)
 - [Data Cleaning & EDA](https://github.com/amystanley25/diabetes-prediction-analysis/blob/master/proj-notebook.ipynb)
-- [Modeling] (https://github.com/amystanley25/diabetes-prediction-analysis/blob/master/proj-notebook.ipynb)
+- [Modeling](https://github.com/amystanley25/diabetes-prediction-analysis/blob/master/proj-notebook.ipynb)
 
 
 ##### Contact and Further Information

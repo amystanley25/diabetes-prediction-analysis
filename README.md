@@ -1,10 +1,9 @@
-### Project Title
-Diabetes Prediction Analysis
+### Diabetes Prediction Analysis
 
 **Author**
 Amy Stanley
 
-#### Executive summary
+#### Executive Summary
 This project analyzes the Pima Indians Diabetes dataset to build predictive models for diabetes diagnosis based on clinical data. Through data cleaning, exploratory data analysis (EDA), feature engineering, and model evaluation, we identify key factors affecting diabetes risk and develop multiple classification models. The best-performing model achieves robust predictive performance, highlighting the importance of glucose levels, BMI, and age.
 
 #### Rationale
@@ -46,9 +45,9 @@ Key predictors identified include **Glucose**, **BMI**, and **Age**.
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+- [Set-Up](https://github.com/amystanley25/diabetes-prediction-analysis/blob/master/proj-notebook.ipynb)
+- [Data Cleaning & EDA](https://github.com/amystanley25/diabetes-prediction-analysis/blob/master/proj-notebook.ipynb)
+- [Modeling] (https://github.com/amystanley25/diabetes-prediction-analysis/blob/master/proj-notebook.ipynb)
 
 
 ##### Contact and Further Information

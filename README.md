@@ -6,6 +6,7 @@ Amy Stanley
 #### Executive Summary
 **Goal:**
 To develop a machine learning model that accurately predicts whether a patient has diabetes based on clinical features from the Pima Indians Diabetes dataset.
+
 **Challenges:**
 The dataset contains missing or invalid entries (e.g., zero values for features like glucose and BMI).
 Class imbalance could bias models toward predicting the majority class (non-diabetic).

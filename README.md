@@ -44,7 +44,7 @@ Key predictors identified include **Glucose**, **BMI**, and **Age**.
 - Hyperparameter Optimization: Use sophisticated tuning methods like RandomizedSearchCV or Bayesian Optimization to efficiently find optimal model parameters.
 
 #### Outline of project
-
+Link to Notebook: https://github.com/amystanley25/diabetes-prediction-analysis/blob/master/proj-notebook.ipynb
 - [Set-Up](https://github.com/amystanley25/diabetes-prediction-analysis/blob/master/proj-notebook.ipynb)
 - [Data Cleaning & EDA](https://github.com/amystanley25/diabetes-prediction-analysis/blob/master/proj-notebook.ipynb)
 - [Modeling](https://github.com/amystanley25/diabetes-prediction-analysis/blob/master/proj-notebook.ipynb)
